@@ -43,11 +43,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mahfujkn&show_icons=true&theme=github_dark&rank_icon=github" alt="Mahfuj Khan Rafsan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujkn&theme=dark" alt="Mahfuj's GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=mahfujkn&show_icons=true&theme=github_dark&rank_icon=github" alt="Mahfuj's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujkn&theme=dark" alt="Mahfuj's GitHub Streak" />
 </p>
 
 ---
