@@ -43,8 +43,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfujkn&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujkn&layout=compact&theme=tokyonight&hide=html" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mahfujkn&show_icons=true&theme=github_dark&rank_icon=github" alt="Mahfuj Khan Rafsan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujkn&theme=dark" alt="Mahfuj's GitHub Streak" />
 </p>
 
 ---
